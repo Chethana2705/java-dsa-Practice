@@ -1,16 +1,20 @@
-# Java DSA Practice
+Java DSA Practice
 
-Practicing DSA and core Java, following Kunal Kushwaha's DSA Bootcamp 
-assignments + TUF A-Z sheet.
+Practicing Core Java and DSA through problem-solving, following Kunal Kushwaha's DSA Bootcamp assignments and the TUF A-Z DSA Sheet.
 
-## Structure
-Each folder = one topic. Each file = one solved question.
+Structure
 
-## Progress
-- [ ] 01-flow-of-program
-- [ ] 02-first-java
-- [ ] 03-conditionals-loops
-- [ ] 04-functions
+- Each folder = one topic
+- Each file = one solved problem
+- Problems are organized according to the concept they belong to
+- Kunal Bootcamp and TUF A-Z problems are kept inside the relevant topic folder
+
+Progress
+
+- [x] 01-flow-of-program
+- [x] 02-first-java
+- [x] 03-conditionals-loops
+- [x] 04-functions
 - [ ] 05-arrays
 - [ ] 06-searching
 - [ ] 07-sorting
@@ -23,5 +27,25 @@ Each folder = one topic. Each file = one solved question.
 - [ ] 14-oop
 - [ ] 15-linkedlist
 
-## Tech
-Java
+Tech
+
+- Java
+- Git
+- GitHub
+
+Learning Approach
+
+For each problem, I practice:
+
+- Understanding the problem
+- Identifying input and output
+- Choosing appropriate datatypes
+- Designing the logic/algorithm
+- Writing the method
+- Testing with different test cases
+- Considering edge cases
+- Understanding time and space complexity
+
+Goal
+
+Build strong Java fundamentals, problem-solving ability, and DSA skills through consistent practice.
