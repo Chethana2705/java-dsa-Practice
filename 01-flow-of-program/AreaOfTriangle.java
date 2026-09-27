@@ -5,10 +5,10 @@ public class AreaOfTriangle
     {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the base: ");
-        int base = sc.nextInt();
+        double base = sc.nextDouble();
 
-        System.out.println("Enter the length: ");
-        int length = sc.nextInt();
+        System.out.print("Enter the length: ");
+        double length = sc.nextDouble();
 
         double area = 0.5 * base * length;
         System.out.println("Area of Triangle: " + area);

@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PercentageOfSubjects",
+            "request": "launch",
+            "mainClass": "PercentageOfSubjects",
+            "projectName": "java-dsa-Practice_413c36d3"
+        },
+        {
+            "type": "java",
+            "name": "RupeesToUSD",
+            "request": "launch",
+            "mainClass": "RupeesToUSD",
+            "projectName": "java-dsa-Practice_413c36d3"
+        },
+        {
+            "type": "java",
+            "name": "PerimeterOfSquare",
+            "request": "launch",
+            "mainClass": "PerimeterOfSquare",
+            "projectName": "java-dsa-Practice_413c36d3"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfTriangle",
+            "request": "launch",
+            "mainClass": "AreaOfTriangle",
+            "projectName": "java-dsa-Practice_413c36d3"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfRectangle",
+            "request": "launch",
+            "mainClass": "AreaOfRectangle",
+            "projectName": "java-dsa-Practice_413c36d3"
+        },
+        {
+            "type": "java",
+            "name": "AreaofCircle",
+            "request": "launch",
+            "mainClass": "AreaofCircle",
+            "projectName": "java-dsa-Practice_413c36d3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
