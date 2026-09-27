@@ -13,6 +13,7 @@ public class DifferenceOfTwoNumb
         else
         {
             System.out.println("Please enter the valid Input");
+            sc.close();
             return;
         }
 
@@ -24,6 +25,7 @@ public class DifferenceOfTwoNumb
         else
         {
             System.out.println("Please enter the valid Input");
+            sc.close();
             return;
         }
         
