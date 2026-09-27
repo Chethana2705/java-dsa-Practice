@@ -32,15 +32,15 @@ public class DiffOfTwoNumbWithValidInput
 }
 
 
-// invalid input validation flow
- hello
- ↓
-not an integer
- ↓
-hasNextInt() = false
- ↓
-hello is still waiting in Scanner
- ↓
-sc.next() removes hello
- ↓
-ask again
+// // invalid input validation flow
+//  hello
+//  ↓
+// not an integer
+//  ↓
+// hasNextInt() = false
+//  ↓
+// hello is still waiting in Scanner
+//  ↓
+// sc.next() removes hello
+//  ↓
+// ask again
