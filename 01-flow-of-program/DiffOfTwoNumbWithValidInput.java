@@ -30,3 +30,16 @@ public class DiffOfTwoNumbWithValidInput
     }
     
 }
+
+
+// hello
+ ↓
+not an integer
+ ↓
+hasNextInt() = false
+ ↓
+hello is still waiting in Scanner
+ ↓
+sc.next() removes hello
+ ↓
+ask again
