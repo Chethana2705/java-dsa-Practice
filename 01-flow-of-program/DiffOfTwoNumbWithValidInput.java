@@ -32,7 +32,8 @@ public class DiffOfTwoNumbWithValidInput
 }
 
 
-// hello
+// invalid input validation flow
+ hello
  ↓
 not an integer
  ↓
